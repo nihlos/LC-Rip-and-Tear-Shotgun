@@ -1,2 +1,9 @@
-# LethalCompanyTemplate
-A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding
+# Rip & Tear Shotgun
+Plays "The Only Thing They Fear is You" from DOOM ETERNAL when holding out the Shotgun.
+
+## Installation
+
+- Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
+- Unzip this mod into your `Lethal Company/BepInEx` folder
+  
+Or use the thunderstore mod manager to handle the installing for you.
