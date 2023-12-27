@@ -1,0 +1,9 @@
+{
+  "name": "Rip&TearShotgun",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/nihlos/LC-Rip-and-Tear-Shotgun",
+  "description": "Plays The Only Thing They Fear is You, from DOOM ETERNAL when holding the Shotgun.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
